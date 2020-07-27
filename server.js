@@ -6,6 +6,8 @@ var session = require("express-session");
 // Requiring passport as we've configured it
 var passport = require("./config/passport");
 const PORT = process.env.PORT || 3000;
+var compression = require('compression')
+
 
 
 // We need to use sessions to keep track of our user's login status
