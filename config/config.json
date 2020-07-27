@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "EkUF,wC,3^~9&WXfXJ*.4X~i",
+    "password": "",
     "database": "associations_db",
     "host": "127.0.0.1",
     "dialect": "mysql"
